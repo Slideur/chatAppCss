@@ -1,0 +1,15 @@
+{
+  "name": "chat-app-css-illustration-master",
+  "version": "1.0.0",
+  "description": "![Design preview for the Chat app CSS illustration coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx tailwindcss -i ./src/input.css -o ./build/css/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
